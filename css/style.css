@@ -155,6 +155,24 @@ margin:2px;
     padding: 0px;
 }
 
-}
+
 /*end nav*/
 /*end header*/
+/*start main*/
+.result-stats{
+position: absolute;
+    top: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #70757a;
+    line-height: 33px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 8px;
+}
+
+
+
+
+/*end main*/
