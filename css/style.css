@@ -301,9 +301,27 @@ margin:2px;
     margin: 10px;
 }
 
+.image{
+    display: flex;
+}
+.en1 .image img {
+    margin-right: 4px;
+}
 
-
-
+.inside-first .non:hover{
+    text-decoration: none;
+}
+.inside-first p{
+    margin-top: 5px;
+}
+.en .big-par{
+    color: #222222;
+}
+.image1{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
 
 
 
